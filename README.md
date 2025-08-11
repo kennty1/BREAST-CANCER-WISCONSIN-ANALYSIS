@@ -65,13 +65,17 @@
 #### https://ibb.co/MyHmdqLW
 
 ##  SQL Queries
-#### 
-#### 
+#### https://ibb.co/Z6DLyTsY
+#### https://ibb.co/207yw1f1
+#### https://ibb.co/WvGmfc28
+#### https://ibb.co/BHV9sMBB
+#### https://ibb.co/9Hdg17sQ
+#### https://ibb.co/gLm38c85
+#### https://ibb.co/cc6KsrQF
+
 
 ##  Power Bi Dashboard
-#### 
-#### 
-#### 
+
 ---
 # Findings
 ### 1.Benign cases make up roughly 62–64% of the data, while malignant cases account for 36–38%.
