@@ -75,6 +75,9 @@
 
 
 ##  Power Bi Dashboard
+### https://ibb.co/PsGZwQgy
+### https://ibb.co/6RNYqB0w
+### https://ibb.co/tTy5kfwn
 
 ---
 # Findings
