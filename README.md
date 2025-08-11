@@ -74,7 +74,11 @@
 #### https://ibb.co/hx0kvmcj
 ---
 # Findings
-### 
+### 1.Benign cases make up roughly 62–64% of the data, while malignant cases account for 36–38%.
+### 2.Tumor size–related features (e.g., radius_mean, perimeter_mean, area_mean) tend to have higher values for malignant tumors than benign ones.
+### 3.Shape irregularity metrics (concavity_mean, concave points_mean, compactness_mean) are significantly greater in malignant cases.
+### 4.Features such as worst radius, worst perimeter, worst area, and worst concave points show a clear distinction between benign and malignant tumors, making them highly predictive for classification.
+### 5.Malignant tumors generally have larger dimensions and more irregular boundaries compared to benign tumors, suggesting that geometric and texture-based features are critical in diagnosis.
 
 # Recommendation
 ### 1.Introduce additional bike accessory types to diversify product lines and increase customer value per order.
