@@ -12,7 +12,7 @@
 + [Recommendation](#Recommendation)
 ---
 ## Project Overview
-#### This Project analyses a sales record that documents transactions performed by various consumers over time, specifically for bike rack accessories (Hitch Rack).  With information on the client, the goods, and financial KPIs, each row in the dataset represents a separate sales order.
+#### This Project analyses the Breast Cancer Wisconsin dataset which contains 569 patient records with 32 attributes, including an ID, a diagnosis label indicating whether a tumor is malignant (M) or benign (B), and 30 numerical features describing tumor characteristics such as radius, texture, perimeter, area, smoothness, compactness, concavity, symmetry, and fractal dimension—each measured as mean, standard error.
 ---
 
 ## Data Description
