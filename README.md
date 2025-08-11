@@ -16,7 +16,7 @@
 ---
 
 ## Data Description
-| Column Name               | **Description**                                                                |
+| Column Name               | Description                                                                |
 | ----------------------------- | ------------------------------------------------------------------------------ |
 | id                        | Unique identifier for each patient record                                      |
 | diagnosis                 | Tumor diagnosis: **M** = Malignant (cancerous), **B** = Benign (non-cancerous) |
@@ -57,19 +57,12 @@
 + To classify whether a tumor is benign or malignant based on cell nucleus features extracted from medical imaging.
 ---
 ## Tools Used
-+ MICROSOFT EXCEL
 + POWER BI
 + SQL
 ---
 # Analysis and Insight 
 ## Dataset Preview
 #### https://ibb.co/dwFcgH3m
-
-## Pivot Table
-#### https://ibb.co/tPHjbkV0
-
-##  Excel Dashboard
-#### https://ibb.co/PZR0pNBm
 
 ##  SQL Queries
 #### https://ibb.co/20wfwMGL
@@ -81,13 +74,7 @@
 #### https://ibb.co/hx0kvmcj
 ---
 # Findings
-### 1. All sales are for Hitch Rack bike accessories, indicating the dataset is focused on a niche product line.
-### 2. Most records show positive profit margins, meaning the product is generally profitable across different customers and locations.
-### The Adults (35) age group (both male and female) appears frequently, suggesting they are the primary buyers.
-### 4. A few transactions come from Youth (<25), but their order quantities tend to be lower, possibly indicating lower purchasing power or interest.
-### 5. The Unit Price is steady at $120, while the Unit Cost is $45, giving a constant markup that simplifies profitability analysis.
-### 6.Customers are located mainly in Australia (New South Wales & Victoria) and Canada (British Columbia), suggesting focused regional markets.
-### 7. Orders range from 1 unit to 23 units, showing a mix of small personal and bulk purchases.
+### 
 
 # Recommendation
 ### 1.Introduce additional bike accessory types to diversify product lines and increase customer value per order.
