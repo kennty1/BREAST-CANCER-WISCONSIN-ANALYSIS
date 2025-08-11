@@ -62,16 +62,16 @@
 ---
 # Analysis and Insight 
 ## Dataset Preview
-#### https://ibb.co/dwFcgH3m
+#### 
 
 ##  SQL Queries
-#### https://ibb.co/20wfwMGL
-#### https://ibb.co/BHd1qn1B
+#### 
+#### 
 
 ##  Power Bi Dashboard
-#### https://ibb.co/B528V675
-#### https://ibb.co/1YZPD3FL
-#### https://ibb.co/hx0kvmcj
+#### 
+#### 
+#### 
 ---
 # Findings
 ### 1.Benign cases make up roughly 62–64% of the data, while malignant cases account for 36–38%.
@@ -81,11 +81,11 @@
 ### 5.Malignant tumors generally have larger dimensions and more irregular boundaries compared to benign tumors, suggesting that geometric and texture-based features are critical in diagnosis.
 
 # Recommendation
-### 1.Introduce additional bike accessory types to diversify product lines and increase customer value per order.
-### 2.Focus marketing and retention strategies on Adults (35+), especially in Australia and Canada, as they generate the most revenue.
-### 3.Consider discounts or entry-level products targeted at the <25 age group to grow their customer base and build early brand loyalty.
-### 4.Explore new provinces or countries with similar profiles to Australia and Canada to scale up sales geographically.
-### 5.Introduce tiered pricing or bundle deals for bulk orders to incentivize larger purchases while protecting margins.
+### 1.Encourage regular breast cancer screening, especially targeting groups at higher risk, since malignant tumors show distinct measurable differences in size, texture, and shape that can be detected early.
+
+### 2.Educate the public about early symptoms and available diagnostic methods, emphasizing that benign tumors are more common but malignant cases need urgent attention.
+### 3.Provide continuous training for medical professionals on interpreting tumor measurements and identifying malignancy patterns.
+
 
 
 
